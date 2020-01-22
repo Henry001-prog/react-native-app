@@ -16,12 +16,9 @@ export default class Main extends Component {
     componentDidMount () {
         this.loadProducts();
     }
-
-    loadProducts = async () => {
+    
+    async loadProducts() {
         const response = await api.get(`/chain/info`);
-
-        //const pr = response.data;
-
         console.log(response);
     }
 
