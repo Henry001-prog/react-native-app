@@ -20,7 +20,7 @@ export default class Main extends Component {
     loadProducts = async () => {
         const response = await api.get(`/chain/info`);
 
-        const pr = response.data;
+        //const pr = response.data;
 
         console.log(response);
     }
