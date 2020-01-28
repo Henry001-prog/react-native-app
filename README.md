@@ -18,5 +18,5 @@ Logo abaixo do qr code, no terminal, irá aparecer as seguintes opções:
 
 Escolha a opção que achar melhor.
 
-#Algo a se destacar é que uma aplicação React Native é diferente de uma aplicação ReactJS, então não é possível hospedar uma
-aplicação React Native, somente publicar na Play Store ou na App Store.
+# Algo a se destacar é que uma aplicação React Native é diferente de uma aplicação ReactJS, e não é possível hospedar uma
+# aplicação React Native, somente publicar na Play Store ou na App Store.
