@@ -10,7 +10,7 @@ Em seguida executar o comando yarn start.
 Irá aparecer um qr code tanto no terminal quanto em uma aba no navegador que é aberta automáticamente.
 Logo abaixo irá aparecer as seguintes opções:
 
-• Scan the QR code above with the Expo app (Android) or the Camera app (iOS).
+• Scan the QR code above with the Expo app (Android) or the Camera app (iOS).  
 • Press a for Android emulator.
 • Press e to send a link to your phone with email.
 • Press s to sign in and enable more options.
